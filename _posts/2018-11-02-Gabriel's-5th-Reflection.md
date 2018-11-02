@@ -10,3 +10,4 @@ Wednesday is half of the biggest thing we tackled this week. Contracts. We were 
 fun double(x): (x * 2) end
  
 ```
+I was right about Thursday. We did review on contracts. We also learned the difference between a contract and a definition. Something I said must have been good, since Mr.Alatta decided that he should use that to help explain how contracts work more in-depth to my friend Junior. A contract is a non-specific type of data. It's generic, and it shows what the function will do. But a definition is very specific and it's important to have accuracy. A definition is HOW a function will do what you want it to do. To me this seems very interesting. 
