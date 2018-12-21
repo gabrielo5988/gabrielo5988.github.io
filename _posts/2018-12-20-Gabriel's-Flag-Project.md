@@ -24,7 +24,7 @@ title: "USA!"
 date: 2018-12-20
 5
 --- 
-6
+
 
 
 
@@ -49,7 +49,9 @@ stripe1 = place-image(BS-RR,150,0,BS-WR)
 
 * * *
 
--  WR is the white rectangle which is my background as it would be the easiest to work with for me. BS stands for blue square, I originally made it a square but it didn't fit the parameters so i changed it to a rectangle, I kept the name because I had to deal with the red stripes. I did get the colors right since the flag of the U.S. uses darker palettes than regular colors, giving it a hint of some kind of battle-scarred vibe. I think that's pretty cool. RR stands for red rectangle, I formed them to look like stripes on my flag. I managed to get 1 stripe on but I am still working for the others and how to not get them to overlap. I feel like with more time I would make it better but that would also lead to a more difficult challenge, that being the stars on the flag. 50 in total and I still have nothing for that but I had an idea but I need to review my functions and play around with them for a while.
+-  WR is the white rectangle which is my background as it would be the easiest to work with for me.
+-  BS stands for blue square, I originally made it a square but it didn't fit the parameters so i changed it to a rectangle, I kept the name because I had to deal with the red stripes. I did get the colors right since the flag of the U.S. uses darker palettes than regular colors, giving it a hint of some kind of battle-scarred vibe. I think that's pretty cool.
+-  RR stands for red rectangle, I formed them to look like stripes on my flag. I managed to get 1 stripe on but I am still working for the others and how to not get them to overlap. I feel like with more time I would make it better but that would also lead to a more difficult challenge, that being the stars on the flag. 50 in total and I still have nothing for that but I had an idea but I need to review my functions and play around with them for a while.
  
 
 
