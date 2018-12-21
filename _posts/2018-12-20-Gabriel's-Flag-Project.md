@@ -72,6 +72,6 @@ RR6 = rectangle(290,20,"solid", "darkred")
 RR7 = rectangle(290,20,"solid", "darkred")
 BS-RR2 = place-image(BS,45,40, RR)
 stripe1 = place-image(BS-RR,150,0,BS-WR)
-stripe2 = place-image(RR2,150,50,stripe1)
+stripe2 = place-image(RR2,295,50,stripe1)
 
 ```
